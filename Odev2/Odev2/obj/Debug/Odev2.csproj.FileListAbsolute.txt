@@ -1,0 +1,15 @@
+C:\Users\hüseyin aksak\source\repos\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\hüseyin aksak\source\repos\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\hüseyin aksak\source\repos\Odev2\Odev2\bin\Debug\Odev2.pdb
+C:\Users\hüseyin aksak\source\repos\Odev2\Odev2\obj\Debug\Odev2.csprojAssemblyReference.cache
+C:\Users\hüseyin aksak\source\repos\Odev2\Odev2\obj\Debug\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\hüseyin aksak\source\repos\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\hüseyin aksak\source\repos\Odev2\Odev2\obj\Debug\Odev2.pdb
+C:\Users\hüseyin aksak\Desktop\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\hüseyin aksak\Desktop\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\hüseyin aksak\Desktop\Odev2\Odev2\bin\Debug\Odev2.pdb
+C:\Users\hüseyin aksak\Desktop\Odev2\Odev2\obj\Debug\Odev2.csproj.AssemblyReference.cache
+C:\Users\hüseyin aksak\Desktop\Odev2\Odev2\obj\Debug\Odev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hüseyin aksak\Desktop\Odev2\Odev2\obj\Debug\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\hüseyin aksak\Desktop\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\hüseyin aksak\Desktop\Odev2\Odev2\obj\Debug\Odev2.pdb
